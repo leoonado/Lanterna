@@ -1,0 +1,11 @@
+C:\Users\leo18\OneDrive\Documentos\Curso C#\ex.02.2\ex.02.2\obj\Debug\ex.02.2.csproj.AssemblyReference.cache
+C:\Users\leo18\OneDrive\Documentos\Curso C#\ex.02.2\ex.02.2\obj\Debug\ex.02.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\leo18\OneDrive\Documentos\Curso C#\ex.02.2\ex.02.2\obj\Debug\ex._02._2.Form1.resources
+C:\Users\leo18\OneDrive\Documentos\Curso C#\ex.02.2\ex.02.2\obj\Debug\ex._02._2.Properties.Resources.resources
+C:\Users\leo18\OneDrive\Documentos\Curso C#\ex.02.2\ex.02.2\obj\Debug\ex.02.2.csproj.GenerateResource.cache
+C:\Users\leo18\OneDrive\Documentos\Curso C#\ex.02.2\ex.02.2\obj\Debug\ex.02.2.csproj.CoreCompileInputs.cache
+C:\Users\leo18\OneDrive\Documentos\Curso C#\ex.02.2\ex.02.2\bin\Debug\ex.02.2.exe.config
+C:\Users\leo18\OneDrive\Documentos\Curso C#\ex.02.2\ex.02.2\bin\Debug\ex.02.2.exe
+C:\Users\leo18\OneDrive\Documentos\Curso C#\ex.02.2\ex.02.2\bin\Debug\ex.02.2.pdb
+C:\Users\leo18\OneDrive\Documentos\Curso C#\ex.02.2\ex.02.2\obj\Debug\ex.02.2.exe
+C:\Users\leo18\OneDrive\Documentos\Curso C#\ex.02.2\ex.02.2\obj\Debug\ex.02.2.pdb
